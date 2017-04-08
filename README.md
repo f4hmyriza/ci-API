@@ -1,4 +1,7 @@
 # ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+Nama Kelompok
+1. Fahmi Riza Agustya
+2. Arif Muhajir
 
-My alternate version https://github.com/ardisaurus/old-rest-ci
+untuk file apk crud android bisa di download di
+https://drive.google.com/open?id=0BxMIkPEKVBWhaUYtX1FDTEhFcFE
